@@ -13,8 +13,9 @@ git remote
 git pull origin main
 
 git branch feature/product-module #crear una rama
-en las empresas normalmente las ramas se trabajan como feature/nombreDeFuncion
+
 /*
+En las empresas normalmente las ramas se trabajan como feature/nombreDeFuncion
 Ejemplos:
 feature/nombreRama
 feature/PPE-2355213
@@ -25,3 +26,9 @@ git checkout feature/product-module  #cambiar la rama con la que estamos trabaja
 git push --set-upstream origin feature/product-module #subir los cambios a la rama
 
 trello es la versión gratis por así decirlo de jira es como un organizador
+
+##Aprender##
+Docker
+Deploys a plataforma cloud
+DevOps
+CI/CD (integracion continua e entrega e impletación continua)
