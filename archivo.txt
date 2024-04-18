@@ -1,1 +1,27 @@
 cambio1
+git add .
+git commit -m "uwu"
+git push source target
+git push origin main
+//Acceder o clonar un repositorio
+
+git clone https://github.com/toritho17/curso_prueba.git
+touch archivo.txt
+
+git remote
+
+git pull origin main
+
+git branch feature/product-module #crear una rama
+en las empresas normalmente las ramas se trabajan como feature/nombreDeFuncion
+/*
+Ejemplos:
+feature/nombreRama
+feature/PPE-2355213
+feature/NOLO-2223541-users
+*/
+git checkout feature/product-module  #cambiar la rama con la que estamos trabajando
+
+git push --set-upstream origin feature/product-module #subir los cambios a la rama
+
+trello es la versión gratis por así decirlo de jira es como un organizador
